@@ -1,0 +1,44 @@
+{
+  "play_conditions": [
+    {
+      "name": "c:is_plains",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_overworld",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_cold/overworld",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_badlands",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_savanna",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_desert",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_river",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_forest",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_ocean",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "MENU",
+      "type": "volume_gamma:situational"
+    }
+  ]
+}

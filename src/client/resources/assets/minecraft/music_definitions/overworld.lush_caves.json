@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "lush_caves",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

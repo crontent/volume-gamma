@@ -1,0 +1,178 @@
+{
+  "music_disc.wuop": {
+    "sounds": [
+      {
+        "name": "volume_gamma:records/music_disc_wuop",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.fly": {
+    "sounds": [
+      {
+        "name": "volume_gamma:records/music_disc_fly",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.harvest": {
+    "sounds": [
+      {
+        "name": "volume_gamma:records/music_disc_harvest",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.melanc": {
+    "sounds": [
+      {
+        "name": "volume_gamma:records/music_disc_melanc",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.loofah": {
+    "sounds": [
+      {
+        "name": "volume_gamma:records/music_disc_loofah",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.kena": {
+    "sounds": [
+      {
+        "name": "volume_gamma:records/music_disc_kena",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.bluupy": {
+    "sounds": [
+      {
+        "name": "volume_gamma:records/music_disc_bluupy",
+        "stream": true
+      }
+    ]
+  },
+  "music.axiom": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/axiom",
+        "stream": true
+      }
+    ]
+  },
+  "music.bumpy": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/bumpy",
+        "stream": true
+      }
+    ]
+  },
+  "music.farvel_memory": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/farvel_memory",
+        "stream": true
+      }
+    ]
+  },
+  "music.flotsam": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/flotsam",
+        "stream": true
+      }
+    ]
+  },
+  "music.gom": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/gom",
+        "stream": true
+      }
+    ]
+  },
+  "music.guenzburg": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/guenzburg",
+        "stream": true
+      }
+    ]
+  },
+  "music.lock": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/lock",
+        "stream": true
+      }
+    ]
+  },
+  "music.main_menu": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/main_menu",
+        "stream": true
+      }
+    ]
+  },
+  "music.nokk": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/nokk",
+        "stream": true
+      }
+    ]
+  },
+  "music.ny": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/ny",
+        "stream": true
+      }
+    ]
+  },
+  "music.red_fortress": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/red_fortress",
+        "stream": true
+      }
+    ]
+  },
+  "music.scrat": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/scrat",
+        "stream": true
+      }
+    ]
+  },
+  "music.two_note_dance": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/two_note_dance",
+        "stream": true
+      }
+    ]
+  },
+  "music.waterfall_novela": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/waterfall_novela",
+        "stream": true
+      }
+    ]
+  },
+  "music.wind": {
+    "sounds": [
+      {
+        "name": "volume_gamma:music/wind",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "nether_wastes",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

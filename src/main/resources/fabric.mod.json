@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "volume_gamma",
+	"version": "${version}",
+	"name": "Volume Gamma",
+	"description": "What if Minecraft had more music?",
+	"authors": [
+		"crontent"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/volume-gamma",
+		"sources": "https://github.com/crontent/volume-gamma"
+	},
+	"license": "Rights reserverd",
+	"icon": "assets/volume_gamma/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"mod.crontent.VolumeGamma"
+		],
+		"client": [
+			"mod.crontent.VolumeGammaClient"
+		],
+		"fabric-datagen": [
+			"mod.crontent.VolumeGammaDataGenerator"
+		]
+	},
+	"mixins": [
+		"volume-gamma.mixins.json",
+		{
+			"config": "volume-gamma.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+	},
+    "accessWidener" : "volume-gamma.accesswidener"
+}

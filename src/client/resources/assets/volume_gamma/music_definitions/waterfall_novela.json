@@ -1,0 +1,24 @@
+{
+  "play_conditions": [
+    {
+      "name": "c:is_overworld",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_cold/overworld",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_desert",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_river",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "VILLAGE",
+      "type": "volume_gamma:situational"
+    }
+  ]
+}

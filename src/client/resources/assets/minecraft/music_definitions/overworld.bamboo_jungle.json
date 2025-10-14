@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "bamboo_jungle",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

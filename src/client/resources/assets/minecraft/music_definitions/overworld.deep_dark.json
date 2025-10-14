@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "deep_dark",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

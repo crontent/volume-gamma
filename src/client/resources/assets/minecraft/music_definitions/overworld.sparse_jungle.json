@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "sparse_jungle",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

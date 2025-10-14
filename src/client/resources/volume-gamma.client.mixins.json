@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "mod.crontent.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftClientMixin",
+    "MusicTrackerMixin",
+    "SoundListMixin",
+    "SoundManagerAnonymousClassMixin",
+    "SoundManagerMixin",
+    "WeightedSoundSetMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

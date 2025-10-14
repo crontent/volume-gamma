@@ -1,0 +1,40 @@
+{
+  "play_conditions": [
+    {
+      "name": "c:is_plains",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_cold/overworld",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_overworld",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_mountain",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_desert",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_forest",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "MENU",
+      "type": "volume_gamma:situational"
+    },
+    {
+      "name": "CAVE",
+      "type": "volume_gamma:situational"
+    },
+    {
+      "name": "VILLAGE",
+      "type": "volume_gamma:situational"
+    }
+  ]
+}

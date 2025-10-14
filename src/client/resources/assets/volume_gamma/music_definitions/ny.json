@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "c:is_ocean",
+      "type": "volume_gamma:biome_tag"
+    }
+  ]
+}

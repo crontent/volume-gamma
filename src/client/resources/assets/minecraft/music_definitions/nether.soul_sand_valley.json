@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "soul_sand_valley",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

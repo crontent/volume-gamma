@@ -1,0 +1,25 @@
+{
+  "play_conditions": [
+    {
+      "name": "c:is_mountain",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_badlands",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_savanna",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "c:is_desert",
+      "type": "volume_gamma:biome_tag"
+    },
+    {
+      "name": "CAVE",
+      "type": "volume_gamma:situational"
+    }
+
+  ]
+}

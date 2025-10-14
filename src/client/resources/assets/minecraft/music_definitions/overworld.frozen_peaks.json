@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "frozen_peaks",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

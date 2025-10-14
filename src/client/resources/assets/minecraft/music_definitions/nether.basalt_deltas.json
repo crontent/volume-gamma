@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "basalt_deltas",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

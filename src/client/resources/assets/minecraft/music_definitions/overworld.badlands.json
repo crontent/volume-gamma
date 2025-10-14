@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "badlands",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}

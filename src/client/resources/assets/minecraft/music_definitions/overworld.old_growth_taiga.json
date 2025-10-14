@@ -1,0 +1,8 @@
+{
+  "play_conditions": [
+    {
+      "name": "old_growth_taiga",
+      "type": "volume_gamma:biome"
+    }
+  ]
+}
