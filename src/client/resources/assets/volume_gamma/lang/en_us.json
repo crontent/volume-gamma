@@ -22,7 +22,23 @@
   "tag.item.volume_gamma.village_chest_music_discs": "Volume Gamma – Village Chest Music Discs",
 
   "jukebox_song.volume_gamma.music_disc.bluupy" : "Volume Gamma – Bluupy",
-  "item.volume_gamma.music_disc_bluupy": "Music Disc"
+  "item.volume_gamma.music_disc_bluupy": "Music Disc",
 
+  "jukebox_song.volume_gamma.music_disc.kena": "Volume Gamma – Kena",
+  "item.volume_gamma.music_disc_kena": "Music Disc",
 
+  "jukebox_song.volume_gamma.music_disc.fly": "Volume Gamma – Fly",
+  "item.volume_gamma.music_disc_fly": "Music Disc",
+
+  "jukebox_song.volume_gamma.music_disc.harvest": "Volume Gamma – Harvest",
+  "item.volume_gamma.music_disc_harvest": "Music Disc",
+
+  "jukebox_song.volume_gamma.music_disc.loofah": "Volume Gamma – Loofah",
+  "item.volume_gamma.music_disc_loofah": "Music Disc",
+
+  "jukebox_song.volume_gamma.music_disc.melanc": "Volume Gamma – Melanc",
+  "item.volume_gamma.music_disc_melanc": "Music Disc",
+
+  "jukebox_song.volume_gamma.music_disc.wuop": "Volume Gamma – Wuop",
+  "item.volume_gamma.music_disc_wuop": "Music Disc"
 }
